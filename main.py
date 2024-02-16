@@ -13,3 +13,4 @@ if __name__ == '__main__':
 
     for item, price in dicionario.items():
         print(f'{item} {price}')
+
